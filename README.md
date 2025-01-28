@@ -187,7 +187,7 @@ The API facilitates secure banking operations such as deposits, withdrawals, and
 ### Installation Steps
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone git@github.com:OrlandoMtzDev/monato-engineering-quiz.git
 ```
 2. Install dependencies:
 ```bash

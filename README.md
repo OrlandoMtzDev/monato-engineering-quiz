@@ -202,6 +202,11 @@ rails db:create db:migrate
 rails server
 ```
 
+5. Run rspec tests:
+```bash
+bundle exec rspec
+```
+
 ## Part 4: Project Architecture
 
 ### Project Structure
